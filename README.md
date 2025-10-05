@@ -1,52 +1,37 @@
-# TalentScout AI Hiring Assistant# TalentScout AI Hiring Assistant# 🤖 TalentScout AI Hiring Assistant# 🤖 TalentScout AI Chatbot
-
-
+# 🤖 TalentScout AI Chatbot
 
 A comprehensive AI-powered interview chatbot built with Streamlit and OpenAI GPT-4, designed to streamline the candidate screening process with intelligent technical question generation and structured data collection.
 
+## 🚀 Live Demo
+**Deployed Application**: [https://talentscout-chatbot-r1sh1l.streamlit.app/](https://talentscout-chatbot-r1sh1l.streamlit.app/)
 
+**GitHub Repository**: [https://github.com/R1SH1L/TalentScout-Chatbot](https://github.com/R1SH1L/TalentScout-Chatbot)
 
-## Project OverviewA comprehensive AI-powered interview chatbot built with Streamlit and OpenAI GPT-4, designed to streamline the candidate screening process with intelligent technical question generation and structured data collection.
+## 📋 Project Overview
 
+TalentScout is an innovative hiring assistant that automates the initial interview process for technical positions. The chatbot conducts structured interviews by:
 
+- **Smart Interview Flow**: Progressive interview stages from basic info to technical assessment
+- **AI-Powered Questions**: Dynamic technical question generation based on candidate's tech stack
+- **Data Collection**: Structured storage of candidate responses for HR evaluation
+- **Cloud Ready**: Download functionality for seamless cloud deployment
 
-TalentScout is an automated hiring assistant that conducts structured technical interviews. The system collects basic candidate information, generates personalized technical questions based on their technology stack, and stores responses in a structured format for HR evaluation.
-
-
-
-### Core Capabilities## Project OverviewA comprehensive AI-powered interview chatbot built with Streamlit and OpenAI GPT-4, designed to streamline the candidate screening process with intelligent technical question generation and structured data collection.A comprehensive AI-powered interview chatbot built with Streamlit and OpenAI GPT-4, designed to streamline the candidate screening process with intelligent technical question generation and structured data collection.
-
-
+## ✨ Features
 
 - Automated interview flow with progressive stages
-
 - AI-powered technical question generation
-
-- Real-time input validation TalentScout is an automated hiring assistant that conducts structured technical interviews. The system collects basic candidate information, generates personalized technical questions based on their technology stack, and stores responses in a structured format for HR evaluation.
-
+- Real-time input validation
 - Structured data collection and CSV export
-
 - Download functionality for cloud deployments
-
 - Error handling with fallback mechanisms
 
-### Core Capabilities## 📋 Project Overview## ✨ Features
-
-## Installation Instructions
-
-
+## �️ Installation Instructions
 
 ### Prerequisites
 
-- Automated interview flow with progressive stages
-
 - Python 3.8 or higher
-
-- OpenAI API key- AI-powered technical question generation
-
+- OpenAI API key
 - Git
-
-- Real-time input validation TalentScout is an innovative hiring assistant that automates the initial interview process for technical positions. The chatbot conducts structured interviews by:- **Smart Interview Flow**: Progressive interview stages from basic info to technical assessment
 
 ### Setup Steps
 
